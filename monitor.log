@@ -1,0 +1,22 @@
+2026-03-03 00:04:41,713 [INFO] Banco de dados inicializado em 'precos.db'
+2026-03-03 00:04:41,719 [INFO] Produto cadastrado: 'Teclado Mecânico Attack Shark' (id=1)
+2026-03-03 00:04:41,721 [INFO] Iniciando verificação de 1 produto(s)...
+2026-03-03 00:04:41,721 [INFO] ====== WebDriver manager ======
+2026-03-03 00:04:42,580 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-03 00:04:43,006 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-03 00:04:43,356 [INFO] There is no [win64] chromedriver "145.0.7632.117" for browser google-chrome "145.0.7632" in cache
+2026-03-03 00:04:43,356 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-03 00:04:44,138 [INFO] WebDriver version 145.0.7632.117 selected
+2026-03-03 00:04:44,144 [INFO] Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-03 00:04:44,145 [INFO] About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/145.0.7632.117/win32/chromedriver-win32.zip
+2026-03-03 00:04:44,537 [INFO] Driver downloading response is 200
+2026-03-03 00:04:44,830 [INFO] Get LATEST chromedriver version for google-chrome
+2026-03-03 00:04:45,246 [INFO] Driver has been saved in cache [C:\Users\vinig\.wdm\drivers\chromedriver\win64\145.0.7632.117]
+2026-03-03 00:04:50,655 [INFO] Chrome iniciado (headless=True, UA=Mozilla/5.0 (X11; Linux x86_64) AppleWeb...)
+2026-03-03 00:04:50,655 [INFO] Coletando: https://www.amazon.com.br/dp/B0DJ1574LX
+2026-03-03 00:04:53,324 [INFO] Coletado → ATTACK SHARK x AJAZZ AK820 Teclado mecânico para j | R$ 341.99 | Disponível: True
+2026-03-03 00:04:53,330 [INFO] Preço R$ 341.99 registrado para produto id=1
+2026-03-03 00:04:53,332 [INFO] 'Teclado Mecânico Attack Shark': primeira coleta (R$ 341.99). Sem histórico para comparar.
+2026-03-03 00:04:53,332 [INFO] Aguardando 13.6 segundos...
+2026-03-03 00:05:09,049 [INFO] Chrome encerrado.
+2026-03-03 00:05:09,049 [INFO] Verificação concluída.
